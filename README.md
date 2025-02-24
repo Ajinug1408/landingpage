@@ -1,6 +1,6 @@
 # Stadium Lokal - Landing Page
 
-![Stadium Lokal](assets/img/hero.jpg)
+![Stadium Lokal](assets/img/tampilan.png)
 
 Stadium Lokal adalah sebuah landing page yang menampilkan berbagai stadion sepak bola terbaik di Indonesia. Website ini menyediakan informasi lengkap mengenai stadion-stadion lokal, mulai dari fasilitas, kapasitas, hingga lokasi.
 
@@ -20,3 +20,6 @@ Stadium Lokal adalah sebuah landing page yang menampilkan berbagai stadion sepak
 1. Clone repositori ini dengan perintah:
    ```bash
    git clone https://github.com/username/stadium-lokal.git
+2. Buka folder proyek:
+   cd stadium-lokal
+3. Buka file index.html di browser favoritmu.
